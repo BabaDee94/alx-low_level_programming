@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- *
  * main - Entry point
  *
+ * Description: Writing a program to print _putchar with 0 as return
  * Return: Alwasys 0 (Success)
- *
  */
 int main(void)
 {
