@@ -1,11 +1,10 @@
 #include "main.h"
-
 /**
- * main- code function to print abc
- *
- * Return: Always 0 (Success)
+ * print_alphabet - function to print abc
+ *   
+ * Return: 0
  */
-int main(void)
+void print_alphabet(void)
 {
 char c;
 
@@ -13,6 +12,5 @@ for (c = 'a'; c <= 'z'; c++)
 {
 _putchar(c);
 }
-
 _putchar('\n');
 }
